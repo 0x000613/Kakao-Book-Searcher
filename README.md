@@ -1,5 +1,5 @@
 # Kakao-Book-Searcher
-카카오 도서 검색 API를 이용한 리액트 기반 도서 검색 웹프로그램입니다.
+카카오 도서 검색 API를 이용한 리액트 기반 도서 검색 웹프로그램입니다.  
 Demo: https://kakao-book-searcher.vercel.app/
 
 ### Basic search
