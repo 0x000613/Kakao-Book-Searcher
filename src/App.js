@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import styled from 'styled-components'
 import axios from 'axios';
 
@@ -68,5 +68,3 @@ const App = () => {
 }
 
 export default App;
-
-// res.data.documents.sort((a, b) => parseFloat(a.sale_price) - parseFloat(b.sale_price))
